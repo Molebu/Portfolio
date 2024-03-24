@@ -394,9 +394,11 @@ p {
 #projects .project-img img {
   transition: 0.3s ease transform;
 }
-#projects .project-item:hover .project-img img {
+
+#projects .project-item:hover .project-info {
   transform: scale(1.1);
 }
+
 /* End Projects section */
 
 /* About Section */
